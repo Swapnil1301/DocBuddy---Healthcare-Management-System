@@ -1,0 +1,8 @@
+package com.example.DocBuddy.enums;
+
+public enum AppointmentStatus {
+	SCHEDULED,
+	COMPLETED,
+	CANCELLED,
+	NO_SHOW
+}
